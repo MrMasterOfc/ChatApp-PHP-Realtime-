@@ -7,10 +7,7 @@
     <img src="https://github.com/MrMasterOfc/ChatApp-Backup/blob/main/Screenshot%202024-11-19%20230043.png" width="700px">
   </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 
-[`WEB PAGE`](https://master-mind-omega.vercel.app/)
-<br>
 <br>
 <a href="https://github.com/MrMasterOfc"><img src="https://telegra.ph/file/2ecbe4f7be3f49515d9c5.jpg" width="400" height="230"></a> 
 
